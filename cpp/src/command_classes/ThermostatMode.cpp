@@ -94,7 +94,6 @@ static char const* c_modeName[] =
 	"Aux Heat",
 	"Resume",
 	"Fan Only",
-//	"Furnace",
 	"Dry Air",
 	"Moist Air",
 	"Auto Changeover",
